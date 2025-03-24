@@ -1,0 +1,101 @@
+# =============== #
+# Unity Generated  #
+# =============== #
+
+# OS or Editor specific
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Unity auto-generated files
+*.unityproj
+*.sln
+*.csproj
+*.pidb
+*.userprefs
+*.user
+*.booproj
+*.svd
+
+# Visual Studio / Rider
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln*
+*.xproj
+*.csproj
+*.psess
+
+# Cache and temporary files
+*.apk
+*.aab
+*.ipch
+*.ilk
+*.pdb
+*.obj
+*.exe
+*.app
+*.idb
+*.DS_Store
+
+# Crash reports
+*.crash
+*.log
+*.mdmp
+
+# Licensing
+*.license
+
+# Packed files
+*.unitypackage
+
+# Git ignore for LFS (Large File Storage) management
+*.psd
+*.tga
+*.tif
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.blend
+*.fbx
+*.max
+*.mb
+*.ma
+
+# Ignore builds and generated data
+/Build/
+/Builds/
+/Assets/StreamingAssets/
+/Assets/AssetBundles/
+
+# Ignore compiled binary folders
+[Bb]in/
+[Oo]ut/
+
+# Node.js dependencies
+node_modules/
+
+# JetBrains Rider specific
+.idea/
+*.iml
