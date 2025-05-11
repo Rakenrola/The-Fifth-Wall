@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class LevelOntrigger : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision) // Used as an effect upon collision to trigger next level.
     {
         if(collision.CompareTag("Player"))
         {
