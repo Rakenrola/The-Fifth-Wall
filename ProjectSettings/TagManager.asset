@@ -13,9 +13,9 @@ TagManager:
   - UI
   - Player
   - Ground
-  - 
-  - 
-  - 
+  - Enemy
+  - No Post
+  - Post Processing
   - 
   - 
   - 
@@ -40,4 +40,31 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 1Sky
+    uniqueID: 3858974027
+    locked: 0
+  - name: 2Elements
+    uniqueID: 2706087675
+    locked: 0
+  - name: Title
+    uniqueID: 247863039
+    locked: 0
+  - name: 3Background
+    uniqueID: 4256783293
+    locked: 0
+  - name: Player
+    uniqueID: 1892257635
+    locked: 0
+  - name: Enemy
+    uniqueID: 1613128333
+    locked: 0
+  - name: Walkable
+    uniqueID: 2017808723
+    locked: 0
+  - name: 4Foreground
+    uniqueID: 1776064933
+    locked: 0
+  - name: UI
+    uniqueID: 936062099
     locked: 0
